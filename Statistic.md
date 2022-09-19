@@ -22,6 +22,10 @@ we have hypothesis first and assume the H0 is correct, we try to use the **sampl
 
 
 
+Type 1 & Type 2 Error:
+
+
+
 parameter hypothesis testing 
 
 ##### T Test: 
@@ -47,6 +51,22 @@ H0: the weitht of male and that of femal is no different
 ##### Chi Square Test:
 
 two categories variable 
+
+
+
+##### Anova:
+
+mulitple categories with on dependent variable(continuous value)
+
+
+
+##### Permutation Test
+
+user for the data is from unknow distribution
+
+
+
+
 
 
 
